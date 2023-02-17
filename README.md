@@ -1,4 +1,4 @@
-![alt text](purple-red-saturn-4k-jrongcbrtxfev2s2.jpg)
+![alt text](https://user-images.githubusercontent.com/2499066/197930666-7bf6de17-29ad-4d16-8568-17f871edbfd7.png)
 
 ### Hi there 👋
 
