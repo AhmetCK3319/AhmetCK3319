@@ -1,6 +1,5 @@
-![Profile](https://cdn.pixabay.com/photo/2023/02/14/23/53/ai-generated-7790616_960_720.jpg|width=200)
+<img src="https://cdn.pixabay.com/photo/2023/02/14/23/53/ai-generated-7790616_960_720.jpg" width="350" height="400">
 ### Hi there 👋
-
 
 **AhmetCK3319** is a ✨ _special_ ✨ repository 
 ![Progress](https://progress-bar.dev/65/?title=Python)
