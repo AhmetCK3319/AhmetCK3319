@@ -1,5 +1,4 @@
-![Profile](https://cdn.pixabay.com/photo/2023/02/14/23/53/ai-generated-7790616_960_720.jpg)
-
+![Profile](https://cdn.pixabay.com/photo/2023/02/14/23/53/ai-generated-7790616_960_720.jpg|width=200)
 ### Hi there 👋
 
 
