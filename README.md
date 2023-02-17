@@ -4,8 +4,10 @@
 
 
 **AhmetCK3319** is a ✨ _special_ ✨ repository 
-
-
+![Progress](https://progress-bar.dev/65/?title=Python)
+![Progress](https://progress-bar.dev/10/?title=DJANGO)
+![Progress](https://progress-bar.dev/85/?title=HTML)
+![Progress](https://progress-bar.dev/75/?title=CSS)
 - 🔭 I’m currently working on Python Django
 - 🌱 I’m currently learning Html Css Python Django
 - 👯 I’m looking to collaborate on Python Django
