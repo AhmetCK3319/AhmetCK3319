@@ -3,7 +3,7 @@
 
 **AhmetCK3319** is a ✨ _special_ ✨ repository 
 ![Progress](https://progress-bar.dev/65/?title=Python)
-![Progress](https://progress-bar.dev/30/?title=DJANGO)
+![Progress](https://progress-bar.dev/45/?title=DJANGO)
 ![Progress](https://progress-bar.dev/85/?title=HTML)
 ![Progress](https://progress-bar.dev/75/?title=CSS)
 - 🔭 I’m currently working on Python Django
