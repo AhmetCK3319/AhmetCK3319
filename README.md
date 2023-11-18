@@ -7,8 +7,5 @@
 ![Progress](https://progress-bar.dev/100/?title=HTML)
 ![Progress](https://progress-bar.dev/75/?title=CSS)
 - 🔭 I’m currently working on Python Django
-- 🌱 I’m currently learning  Django
-- 👯 I’m looking to collaborate on Python Django
-- 🤔 I’m looking for help with  Django
 - 📫 How to reach me: ahmetcankoca1990@hotmail.com
 
