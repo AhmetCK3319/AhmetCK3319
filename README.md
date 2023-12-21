@@ -12,4 +12,4 @@
 ![Progress](https://progress-bar.dev/60/?title=NGİNX)
 - 🔭 I’m currently working on Python Django
 - 📫 How to reach me: ahmetcankoca1990@hotmail.com
-- 📫 How to reach me: ahmetcankoca.com
+- my site : http://www.ahmetcankoca.com
