@@ -6,6 +6,10 @@
 ![Progress](https://progress-bar.dev/75/?title=DJANGO)
 ![Progress](https://progress-bar.dev/100/?title=HTML)
 ![Progress](https://progress-bar.dev/75/?title=CSS)
+![Progress](https://progress-bar.dev/85/?title=BOOTSTRAP)
+![Progress](https://progress-bar.dev/65/?title=DOCKER)
+![Progress](https://progress-bar.dev/80/?title=POSTGRESQL)
+![Progress](https://progress-bar.dev/60/?title=NGİNX)
 - 🔭 I’m currently working on Python Django
 - 📫 How to reach me: ahmetcankoca1990@hotmail.com
 
