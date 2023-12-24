@@ -4,24 +4,25 @@
 **AhmetCK3319** is a ✨ _special_ ✨ repository 
 
 1. **Python and Django:**
-   ![Progress](https://progress-bar.dev/95/?title=Python)
-   ![Progress](https://progress-bar.dev/75/?title=Django)
-   ![Progress](https://progress-bar.dev/85/?title=Django_Rest_Framework)
-   ![Progress](https://progress-bar.dev/70/?title=Selenium)
+   ![Python](https://progress-bar.dev/95/?title=Python)
+   ![Django](https://progress-bar.dev/75/?title=Django)
+   ![Django Rest Framework](https://progress-bar.dev/85/?title=Django_Rest_Framework)
+   ![Selenium](https://progress-bar.dev/70/?title=Selenium)
 
-3. **Web Technologies:**
-   ![Progress](https://progress-bar.dev/100/?title=HTML)
-   ![Progress](https://progress-bar.dev/75/?title=CSS)
-   ![Progress](https://progress-bar.dev/85/?title=Bootstrap)
+2. **Web Technologies:**
+   ![HTML](https://progress-bar.dev/100/?title=HTML)
+   ![CSS](https://progress-bar.dev/75/?title=CSS)
+   ![Bootstrap](https://progress-bar.dev/85/?title=Bootstrap)
 
-4. **Systems and Tools:**
-   ![Progress](https://progress-bar.dev/65/?title=Docker)
-   ![Progress](https://progress-bar.dev/80/?title=PostgreSQL)
-   ![Progress](https://progress-bar.dev/60/?title=Nginx)
+3. **Systems and Tools:**
+   ![Docker](https://progress-bar.dev/65/?title=Docker)
+   ![PostgreSQL](https://progress-bar.dev/80/?title=PostgreSQL)
+   ![Nginx](https://progress-bar.dev/60/?title=Nginx)
    
-5. **Others:**
-   ![Progress](https://progress-bar.dev/85/?title=Git)
-   ![Progress](https://progress-bar.dev/80/?title=Github) 
+4. **Others:**
+   ![Git](https://progress-bar.dev/85/?title=Git)
+   ![Github](https://progress-bar.dev/80/?title=Github)
+
    
 - 🔭 I’m currently working on Python Django
 - 📫 How to reach me: ahmetcankoca1990@hotmail.com
