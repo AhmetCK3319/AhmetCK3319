@@ -1,4 +1,4 @@
-<img src="https://cdn.pixabay.com/photo/2023/02/14/23/53/ai-generated-7790616_960_720.jpg" width="350" height="400">
+![My Profile Image](https://cdn.pixabay.com/photo/2023/02/14/23/53/ai-generated-7790616_960_720.jpg)
 ### Hi there 👋
 
 **AhmetCK3319** is a ✨ _special_ ✨ repository 
