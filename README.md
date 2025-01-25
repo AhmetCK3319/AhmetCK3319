@@ -1,4 +1,4 @@
-# Hi, I'm < AHMET CAN KOCA >! 👋
+# Hi, I'm < Ahmet Can KOCA >! 👋
 
 My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
