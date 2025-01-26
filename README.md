@@ -7,12 +7,11 @@ My journey involves delving into the world of computer science, exploring new id
 - 🔭 I am in the final semester of my associate degree in computer programming.
 - 📝 My Site [ahmetcankoca.info](https://ahmetcankoca.info)
 
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
+
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,python,django,c#)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
