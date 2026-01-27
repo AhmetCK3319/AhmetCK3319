@@ -19,7 +19,6 @@
 
 - 🔍 Explore my extensive experience and projects on [GitHub](https://github.com/AhmetCK3319).
 
-        </th>
     </tr>
 </table>
 <br>
