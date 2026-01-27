@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmet Can KOCA</h1>
 <h3 align="center">A Back end Developer from Turkey</h3>
-<h2 align="center">You can find all the information and articles about me on my <a href='http://ahmetcankoca.com' target='_blank'>Website</a></h2>
-
 <table cellspacing="0" cellpadding="0" style="border: none;">
     <tr>
         <th>
