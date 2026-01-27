@@ -19,7 +19,6 @@
 
 - 🔍 Explore my extensive experience and projects on [GitHub](https://github.com/AhmetCK3319).
 
-- 💬 Don't hesitate to ask me about **Python, Django, Rest Framework, PostgreSQL, HTML, CSS, Cyber Security, Kali Linux I'm here to share my knowledge and insights with you.
         </th>
     </tr>
 </table>
