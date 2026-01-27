@@ -1,5 +1,5 @@
 
-![Ahmet Can KOCA](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Hi+Call+me+Ahmet+Can+KOCA;AhmetCanKOCA)
+![Ahmet Can KOCA](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Hi+I+am+Ahmet+Can+KOCA;BackendDeveloper)
 <h3 align="center">Backend Developer and Digital Forensics Expert from Turkey</h3>
 <table cellspacing="0" cellpadding="0" style="border: none;">
     <tr>
