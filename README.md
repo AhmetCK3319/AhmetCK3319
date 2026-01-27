@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmet Can KOCA</h1>
-<h3 align="center">A Back end Developer from Turkey</h3>
+<h3 align="center">Backend Developer and Digital Forensics Expert from Turkey</h3>
 <table cellspacing="0" cellpadding="0" style="border: none;">
     <tr>
         <th>
