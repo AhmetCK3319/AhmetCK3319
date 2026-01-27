@@ -22,7 +22,7 @@
 </table>
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmetCK3319&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GitHub Snake](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg)
 
 ```python
 #!/usr/bin/python
