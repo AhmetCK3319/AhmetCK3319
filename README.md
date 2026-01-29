@@ -47,7 +47,7 @@ me.say_hi()
 ### 📊 GitHub Stats:
 | GitHub Stats | Top Languages |
 | :--- | :--- |
-| ![](https://github-readme-stats-eight-theta.vercel.app/api?username=AhmetCK3319&theme=dark&hide_rank=true&hide_border=false&include_all_commits=true&count_private=true) | ![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AhmetCK3319&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
+| <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AhmetCK3319&theme=dark&hide_rank=true&hide_border=false&include_all_commits=true&count_private=true" height="165" /> | <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AhmetCK3319&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165" /> |
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmet_can_koca_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmet-can-koca-7b500a267/)
