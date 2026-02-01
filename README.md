@@ -12,7 +12,7 @@
 
 - Django, Django Rest, PostgreSQL for database management
 
-- 📝 You can find my articles and in-depth technical insights at my [website](https://www.ahmetcankoca.com)
+- 📝 You can find my articles and in-depth technical insights at my [website](https://ahmetcankoca.com)
 
 - 🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/ahmet-can-koca-7b500a267/) to stay updated on my professional journey.
 
